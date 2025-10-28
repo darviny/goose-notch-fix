@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Build products
+build/
+*.o
+*.a
+*.dylib
+*.so
+*.dll
+*.exe
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Compiled binaries (keep source but ignore compiled versions)
+# Uncomment the next line if you want to ignore the compiled dylib
+# libwindowfix.dylib
